@@ -38,6 +38,6 @@ Simply run the `dataset_analysis.ipynb` notebook to see the analysis of the data
 
 Make sure to run the notebook in the virtual environment. Also, make sure that you run the first cells until the `Analysing the dataset with its characteristics` section. Then, you can simply run the characteristics you want to see.
 
-Codes are commented and there are explanations in the notebook. If a cell takes too long or there is a need to use GPU, it is mentioned in that cell.
+Codes are commented and there are explanations in the notebook. If a cell takes too long or there is a need to use GPU, it is mentioned in that section.
 
 And that's it! You can now see the analysis of the dataset! 😃
