@@ -225,4 +225,6 @@ pyrightconfig.json
 .history
 .ionide
 
+data/res
+
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,visualstudiocode
