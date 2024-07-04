@@ -226,5 +226,6 @@ pyrightconfig.json
 .ionide
 
 data/res
+models/UniEval/UniEval
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,visualstudiocode
