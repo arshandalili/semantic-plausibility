@@ -74,19 +74,15 @@ Due to the complexity of the model, let's divide the instructions into two parts
 
 #### Fine-tuning the model
 
-Make sure that you have the files in the following structure and set up the environment below:
+Make sure that you have the files in the following structure (especially `data` folder and `train.csv`) and set up the environment below:
 
 IMAGE
 
-My suggestion is to run the model in Kaggle with a dataset and its notebook there. Contact me if you need help with that.
+My suggestion is to run the model in Kaggle with a dataset and its notebook there. Due to the complexity of the task, let me know if you need any help with this.
 
 But, just FYI, I made the prompts by running the `Prompt.ipynb` notebook. This will create the prompts for fine-tuning the model.
 For next steps, please refer to the `LLM_Finetune.ipynb` notebook to see more details on how to run the model.
-Just about the structure of the `data` folder, you need to have the following structure on Kaggle:
 
-IMAGE
-
-IMAGE
 
 #### Running the model (Inference)
 
