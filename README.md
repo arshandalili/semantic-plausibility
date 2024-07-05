@@ -91,3 +91,8 @@ IMAGE
 #### Running the model (Inference)
 
 For the inference part, you should run the `Installing and importing requirements` part first and then run the `Inference` part of the `LLM_Finetune.ipynb` notebook. Basically, you need to omit the `Fine-tune LLM` part.
+
+
+#### Ensemble (Majority Voting)
+
+To see the results of the ensemble model, you can run the `Ensemble_and_Results.ipynb` notebook in the `models/Ensemble_and_Results` folder. This notebook will show the results of the models themselves plus their majority voting for all tasks and overall.
