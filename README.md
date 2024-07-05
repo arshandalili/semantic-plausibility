@@ -94,3 +94,5 @@ For the inference part, you should run the `Installing and importing requirement
 ### Ensemble (Majority Voting)
 
 To see the results of the ensemble model, you can run the `Ensemble_and_Results.ipynb` notebook in the `models/Ensemble_and_Results` folder. This notebook will show the results of the models themselves plus their majority voting for all tasks and overall.
+
+And that's it! You can now run and see the results of the models! 😃
