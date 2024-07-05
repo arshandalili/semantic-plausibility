@@ -58,7 +58,7 @@ Make sure that you have the files in the following structure:
 
 ![Screenshot 2024-07-05 at 2 17 15 PM](https://github.com/arshandalili/semantic-plausibility/assets/57400500/d6ea68a7-9518-4037-82ce-f3260a392495)
 
-Then, you can run the `SentenceBERT.ipynb` notebook to see the results of the model.
+Then, you can run the `SentenceBERT.ipynb` notebook to see the results of the model. Make sure to run all the cells in the notebook in order to see the results.
 
 ### UniEval
 
