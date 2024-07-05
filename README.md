@@ -2,9 +2,7 @@
 
 This repository contains the code for the Semantic Plausibility Seminar.
 
-## Dataset Analysis
-
-### How to run the code
+## How to run the code
 
 1. Clone the repository
 
@@ -15,7 +13,7 @@ cd semantic-plausibility
 
 2. Create a virtual environment
 
-The python version used in this project is 3.12.3. Please make sure you have this version installed.
+The python version used in this project is `3.12.3`. Please make sure you have this version installed.
 
 You can create a virtual environment with the following commands:
 
@@ -29,6 +27,8 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+## Dataset Analysis
 
 Since the dataset is not large, they are included in the repository. So there is no need to download/move any dataset. They are already in the `data` folder. (SHROOM and Concreteness dataset)
 
