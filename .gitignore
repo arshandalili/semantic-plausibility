@@ -229,3 +229,4 @@ data/res
 models/UniEval/UniEval
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,visualstudiocode
+models/Fine-tuned LLM/install_logs.txt
