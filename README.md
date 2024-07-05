@@ -56,7 +56,7 @@ Each model has its own folder with its own related files. Note that you might ne
 
 Make sure that you have the files in the following structure:
 
-IMAGE
+![Screenshot 2024-07-05 at 2 17 15 PM](https://github.com/arshandalili/semantic-plausibility/assets/57400500/d6ea68a7-9518-4037-82ce-f3260a392495)
 
 Then, you can run the `SentenceBERT.ipynb` notebook to see the results of the model.
 
@@ -64,7 +64,7 @@ Then, you can run the `SentenceBERT.ipynb` notebook to see the results of the mo
 
 Make sure that you have the files in the following structure:
 
-IMAGE
+![Screenshot 2024-07-05 at 3 33 22 PM](https://github.com/arshandalili/semantic-plausibility/assets/57400500/cee053af-f4c4-4511-8d8d-9c1c89813062)
 
 Then, you can run the `UniEval.ipynb` notebook to see the results of the model. Please note that you need to run all the cells in the notebook. The first cells are the one that will install the UniEval library. It is better to run this notebook in an environment with GPU.
 
@@ -76,7 +76,9 @@ Due to the complexity of the model, let's divide the instructions into two parts
 
 Make sure that you have the files in the following structure (especially `data` folder and `train.csv`) and set up the environment below:
 
-IMAGE
+![Screenshot 2024-07-05 at 3 02 36 PM](https://github.com/arshandalili/semantic-plausibility/assets/57400500/e8eefd30-c3b2-4940-b23b-2b74f2fc3bf5)
+
+![Screenshot 2024-07-05 at 3 28 31 PM](https://github.com/arshandalili/semantic-plausibility/assets/57400500/ff59f74c-3496-403a-ae62-0f389a652d11)
 
 My suggestion is to run the model in Kaggle with a dataset and its notebook there. Due to the complexity of the task, let me know if you need any help with this.
 
